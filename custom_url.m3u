@@ -111,22 +111,6 @@ http://103.180.212.191:3500/live/3319.m3u8
 https://tplay.live/originals/bengali-beats/index.m3u8
 #EXTINF:-1 ", Bengali Beat2
 https://cloudfrontnet.vercel.app/tplay/playout/209587/master.m3u8
-#EXTINF:-1 , Colors HD
-https://padmaonline.duckdns.org:8088/ColorsHD/index.m3u8
-#EXTINF:-1 , Colors HD
-http://103.175.242.10:8080/colorshd/index.m3u8
-#EXTINF:-1 , Colors HD jio
-http://103.180.212.191:3500/live/144.m3u8
-#EXTINF:-1 , Colors HD BDIX
-http://103.229.254.25:7001/play/a0a1/index.m3u8
-#EXTINF:-1 , Colors HD BDIX3
-http://202.70.146.135:8000/play/a00b/index.m3u8
-#EXTINF:-1 , Colors HD BDIX4
-http://103.182.170.32:8888/play/a041
-#EXTINF:-1 , SET HD BDIX
-http://103.229.254.25:7001/play/a09u/index.m3u8
-#EXTINF:-1 , Star plus HD BDIX
-http://103.229.254.25:7001/play/a09z/index.m3u8
 #EXTINF:-1 , 9xm BDIX
 http://103.229.254.25:7001/play/a07o/index.m3u8
 #EXTINF:-1 , 9xm
