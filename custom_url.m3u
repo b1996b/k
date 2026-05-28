@@ -25,6 +25,8 @@ http://yupptvcatchupire.yuppcdn.net/preview/starjalsha/1800.m3u8
 http://yupptvcatchupire.yuppcdn.net/preview/zeebangla/2500.m3u8
 #EXTINF:-1 , Colors Bangla HD
 http://yupptvcatchupire.yuppcdn.net/preview/colorsbanglahd/800.m3u8
+#EXTINF:-1 , Colors Bangla HD Panda
+https://padmaonline.duckdns.org:8088/ColorsBanglaHD/index.m3u8
 #EXTINF:-1 , Sun Bangla jio
 http://103.180.212.191:3500/live/1669.m3u8
 #EXTINF:-1 , Sananda TV
