@@ -27,6 +27,8 @@ https://tvsen3.aynaott.com/n64PH4YL/tracks-v1a1/mono.ts.m3u8
 http://yupptvcatchupire.yuppcdn.net/preview/zeebangla/2500.m3u8
 #EXTINF:-1 , Zee Bangla HD Panda
 https://padmaonline.duckdns.org:8088/ZeeBanglaHD/index.m3u8
+#EXTINF:-1 , Zee Bangla HD
+https://ashtv.com.bd/server/channels/zee_bangla.m3u8
 #EXTINF:-1 , Colors Bangla HD
 http://yupptvcatchupire.yuppcdn.net/preview/colorsbanglahd/800.m3u8
 #EXTINF:-1 , Colors Bangla HD Panda
@@ -59,6 +61,8 @@ http://alvetv.com/mbtv/8080/index.m3u8
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 #EXTINF:-1 , Sony Aath
 http://198.195.239.50:8095/SonyAath/tracks-v1a1/mono.m3u8
+#EXTINF:-1 , Sony Aath
+https://ashtv.com.bd/server/channels/sony_aath.m3u8
 #EXTINF:-1 , Sony Aath
 http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/6641/index.m3u8
 #EXTINF:-1 , Khushboo Bangla
