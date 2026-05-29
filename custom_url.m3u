@@ -97,7 +97,9 @@ http://198.195.239.50:8095/PTV/tracks-v1a1/mono.m3u8
 http://198.195.239.50:8095/nagorik/tracks-v1a1/mono.m3u8
 #EXTINF:-1 , T sports Hd BDIX
 http://198.195.239.50:8095/Tsports/tracks-v1a1/mono.m3u8
-#EXTINF:-1 , Star sports 1 Hd
+#EXTINF:-1 , Star sports1 Hd
 http://tvn1.chowdhury-shaheb.com/starsport1/index.m3u8
 #EXTINF:-1 , Star sports1 Hindi
 http://starsportshindiii.pages.dev/360p.m3u8
+#EXTINF:-1 , Star sports2 Hd
+http://tvn1.chowdhury-shaheb.com/starsport2/index.m3u8
