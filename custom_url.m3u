@@ -21,6 +21,8 @@ http://server.livelegitpro.in/bhichannel/bhichannel/index.m3u8
 http://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 #EXTINF:-1 , G-Series 
 http://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 , Boishakhi TV
+http://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
 #EXTINF:-1 , Somoy TV
 http://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
 #EXTINF:-1 , Channel 24
