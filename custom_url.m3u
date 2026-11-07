@@ -119,6 +119,8 @@ http://9xjio.wiseplayout.com/9XM/master.m3u8
 https://wiselp.wiseplayout.com/9X_Jalwa/HD1080/HD1080.m3u8
 #EXTINF:-1 , B4U Music
 http://cdn-2.pishow.tv/live/415/master.m3u8
+#EXTINF:-1 , Hindi Hits
+http://146.59.253.52:8080/hindihitshd/index.m3u8
 #EXTINF:-1 , Music India
 https://cdn-2.pishow.tv/live/226/master.m3u8
 #EXTINF:-1 , ZOOM
