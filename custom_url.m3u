@@ -111,6 +111,8 @@ http://198.195.239.50:8095/NationalGeographic/tracks-v1a1/mono.m3u8
 http://103.229.254.25:7001/play/a038/index.m3u8
 #EXTINF:-1 ", Sangeet Bangla
 http://103.175.73.12:8080/live/379/379_0.m3u8
+#EXTINF:-1 ", Dhoom
+http://103.175.73.12:8080/live/378/378_0.m3u8
 #EXTINF:-1 ", Sangeet Bangla
 http://cdn-4.pishow.tv/live/1143/master.m3u8
 #EXTINF:-1 ", ZB Music jio
