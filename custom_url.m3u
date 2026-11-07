@@ -97,8 +97,8 @@ http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/6641/index.m3u8
 http://cdn-4.pishow.tv/live/1473/master.m3u8
 #EXTINF:-1 , Travelxp
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 , Discovery HD
-http://198.195.239.50:8095/Discovery/tracks-v1a1/mono.m3u8
+#EXTINF:-1 , Animal Planet
+http://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8
 #EXTINF:-1 , Discovery HD BDIX
 http://103.229.254.25:7001/play/a03g/index.m3u8
 #EXTINF:-1 , Discovery HD
