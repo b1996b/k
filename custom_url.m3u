@@ -123,6 +123,8 @@ http://cdn-2.pishow.tv/live/415/master.m3u8
 http://146.59.253.52:8080/hindihitshd/index.m3u8
 #EXTINF:-1 , Music India
 https://cdn-2.pishow.tv/live/226/master.m3u8
+#EXTINF:-1 , Music India 2
+http://103.175.73.12:8080/live/158/158_0.m3u8
 #EXTINF:-1 , ZOOM
 http://d2esfk1pb9cdob.cloudfront.net/master.m3u8
 #EXTINF:-1 , Ptv Sports BDIX
