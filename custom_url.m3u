@@ -35,8 +35,8 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 http://116.204.149.16/satv/index.m3u8
 #EXTINF:-1 , Babgla TV
 http://116.204.149.16/banglatv/index.m3u8
-#EXTINF:-1 , ATN News
-https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/1706.m3u8
+#EXTINF:-1 , Global TV
+http://116.204.149.16/globaltv/index.m3u8
 #EXTINF:-1 , Bangla Vision
 http://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
 #EXTINF:-1 , Maasranga
