@@ -39,8 +39,8 @@ http://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/1706.m3u8
 #EXTINF:-1 , Bangla Vision
 http://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
-#EXTINF:-1 , NTV
-http://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
+#EXTINF:-1 , Maasranga
+http://116.204.149.16/maasranga/index.m3u8
 #EXTINF:-1 , RTV
 http://116.204.149.16/rtvhd/index.m3u8
 #EXTINF:-1 , Republic Bangla
