@@ -157,5 +157,7 @@ http://tvn1.chowdhury-shaheb.com/starsport1/index.m3u8
 http://starsportshindiii.pages.dev/360p.m3u8
 #EXTINF:-1 , Star sports2 Hd
 http://tvn1.chowdhury-shaheb.com/starsport2/index.m3u8
+#EXTINF:-1 , Cartoon Network
+https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8
 #EXTINF:-1 , ZB Cartoon
 https://server.zillarbarta.com/zbcatun/video.m3u8
