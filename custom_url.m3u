@@ -45,6 +45,8 @@ https://tvsen5.aynaott.com/banglavision/index.m3u8
 http://116.204.149.16/maasranga/index.m3u8
 #EXTINF:-1 , RTV
 http://116.204.149.16/rtvhd/index.m3u8
+#EXTINF:-1 , RTV Ayna
+https://tvsen5.aynaott.com/RtvHD/index.m3u8
 #EXTINF:-1 , Republic Bangla
 http://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-456368/main.m3u8
 #EXTINF:-1 , News Time Bangla
