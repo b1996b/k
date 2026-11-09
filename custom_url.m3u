@@ -113,12 +113,12 @@ http://cdn-4.pishow.tv/live/1473/master.m3u8
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 , Animal Planet
 https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8
-#EXTINF:-1 , Discovery HD SCL
+#EXTINF:-1 , Discovery SCL
 http://20.20.20.20:8088/801/video.m3u8
 #EXTINF:-1 , Discovery HD Ayna
 https://tvsen3.aynaott.com/Zht5VqBb/index.m3u8
-#EXTINF:-1 , Nat Geo HD BDIX
-http://103.229.254.25:7001/play/a038/index.m3u8
+#EXTINF:-1 , Nat Geo SCL
+http://20.20.20.20:8088/802/video.m3u8
 #EXTINF:-1 ", Sangeet Bangla Ayna
 https://tvsen6.aynaott.com/hT5jHczt/index.m3u8
 #EXTINF:-1 ", Sangeet Bangla
