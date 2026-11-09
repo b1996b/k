@@ -43,6 +43,8 @@ http://116.204.149.16/maasranga/index.m3u8
 http://116.204.149.16/rtvhd/index.m3u8
 #EXTINF:-1 , RTV Ayna
 https://tvsen5.aynaott.com/RtvHD/index.m3u8
+#EXTINF:-1 , Channel-i Ayna
+https://tvsen6.aynaott.com/FNHpYvGZ7FkCE10PwTHm/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 , Republic Bangla
 http://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-456368/main.m3u8
 #EXTINF:-1 , News Time Bangla
@@ -55,8 +57,6 @@ https://n18syndication.akamaized.net/bpk-tv/News18_Bangla_NW18_MOB/output01/mast
 https://cdn.ottlive.co.in/kolkatatv/index.m3u8
 #EXTINF:-1 , CALCUTTA news
 https://akdnetwork.co.in/live/cnnew/index.m3u8
-#EXTINF:-1 , Channel i
-http://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
 #EXTINF:-1 , Depto TV
 http://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/1711.m3u8
 #EXTINF:-1 , Movie Bangla
