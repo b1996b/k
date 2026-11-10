@@ -155,6 +155,8 @@ http://103.175.73.12:8080/live/158/158_0.m3u8
 http://d2esfk1pb9cdob.cloudfront.net/master.m3u8
 #EXTINF:-1 , YRF Music
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
+#EXTINF:-1 , Sony Max
+http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/151.ts
 #EXTINF:-1 , Live Sports SCL
 http://20.20.20.20:8088/101/video.m3u8
 #EXTINF:-1 , A Sports Ayna
