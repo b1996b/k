@@ -1,17 +1,19 @@
 #EXTM3U
 #EXTINF:-1 , Enter10 Bangla
 https://live-bangla.akamaized.net/liveabr/playlist.m3u8
-#EXTINF:-1 , Enter10 Bangla
+#EXTINF:-1 , Enter10 Bangla Ektv
 http://103.175.73.12:8080/live/658/658_0.m3u8
 #EXTINF:-1 , Enter10 Bangla
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
-#EXTINF:-1 , Ekattor TV
+#EXTINF:-1 , Ekattor SCL
+http://20.20.20.20:8088/201/video.m3u8
+#EXTINF:-1 , Ekattor Ayna
 https://tvsen6.aynaott.com/EWDrV5QskgarZEUBb3pU/index.m3u8
-#EXTINF:-1 , Somoy TV
+#EXTINF:-1 , Somoy
 http://116.204.149.16/somoytv/index.m3u8
 #EXTINF:-1 , Ekushey TV
 http://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
-#EXTINF:-1 , Bijoy TV
+#EXTINF:-1 , Bijoy Ayna
 https://tvsen6.aynaott.com/N8Xbo5vdwVU6sF43RsW0/index.m3u8
 #EXTINF:-1 , News24 Ayna
 https://tvsen6.aynaott.com/cdgr3tw6WoG7JyRnLbi0/index.m3u8
@@ -23,17 +25,17 @@ http://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZ
 http://server.livelegitpro.in/bhichannel/bhichannel/index.m3u8
 #EXTINF:-1 , Deshi TV
 http://deshitv.deshitv24.net/live/myStream/playlist.m3u8
-#EXTINF:-1 , G-Series 
+#EXTINF:-1 , G-Series Ayna
 http://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 , Boishakhi TV
+#EXTINF:-1 , Boishakhi
 https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
-#EXTINF:-1 , Boishakhi TV Ayna
+#EXTINF:-1 , Boishakhi Ayna
 https://tvsen6.aynaott.com/1d3uG9VCgrR9DRtWZM57/index.m3u8
-#EXTINF:-1 , Gazi TV
+#EXTINF:-1 , G TV jago
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/gazibdz.stream/tracks-v1a1/mono.m3u8
-#EXTINF:-1 , Gazi TV2
+#EXTINF:-1 , G Tv2
 https://app.ncare.live/live-orgin/gazibdz.stream/live-orgin/gazibdz.stream/chunks.m3u8
-#EXTINF:-1 , MY TV
+#EXTINF:-1 , MY TV jago
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mytv-up-off.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 , SATV
 http://116.204.149.16/satv/index.m3u8
@@ -41,7 +43,7 @@ http://116.204.149.16/satv/index.m3u8
 http://116.204.149.16/banglatv/index.m3u8
 #EXTINF:-1 , Global TV
 http://116.204.149.16/globaltv/index.m3u8
-#EXTINF:-1 , Bangla Vision
+#EXTINF:-1 , Bangla Vision Ayna
 https://tvsen5.aynaott.com/banglavision/index.m3u8
 #EXTINF:-1 , Maasranga
 http://116.204.149.16/maasranga/index.m3u8
@@ -73,25 +75,25 @@ http://alvetv.com/moviebanglatv/8080/index.m3u8
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/7ff57cc9046b4c188b51a0d506f36e7f/index.m3u8
 #EXTINF:-1 , Ruposhi Bangla
 http://103.175.73.12:8080/live/664/664_0.m3u8
-#EXTINF:-1 ", Star Jalsha HD
+#EXTINF:-1 ", Star Jalsha Yup
 http://yupptvcatchupire.yuppcdn.net/preview/starjalsha/1800.m3u8
 #EXTINF:-1 ", Star Jalsha 3
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b1928000.m3u8
-#EXTINF:-1 , Zee Bangla HD Ayna
+#EXTINF:-1 , Zee Bangla Ayna
 https://tvsen6.aynaott.com/ZeeBangla/index.m3u8
-#EXTINF:-1 , Zee Bangla HD
+#EXTINF:-1 , Zee Bangla
 https://d1rc86nwwc9fag.cloudfront.net/260723/smil:zeebangla.smil/chunklist_b2628000.m3u8
 #EXTINF:-1 , Zee Bangla 2
 https://raw.githubusercontent.com/ahan443/vibe-tv/refs/heads/main/ZeeBanglaHD.m3u8
-#EXTINF:-1 , Zee Bangla HD Yup
+#EXTINF:-1 , Zee Bangla Yup
 http://yupptvcatchupire.yuppcdn.net/preview/zeebangla/2500.m3u8
-#EXTINF:-1 , Zee Bangla HD 2
+#EXTINF:-1 , Zee Bangla2
 https://d1rc86nwwc9fag.cloudfront.net/260723/smil:zeebangla.smil/chunklist_b896000.m3u8
-#EXTINF:-1 , Zee Bangla HD
-https://ashtv.com.bd/server/channels/zee_bangla.m3u8
-#EXTINF:-1 , Colors Bangla HD
+#EXTINF:-1 , Zee Bangla
+http://20.20.20.20:8088/301/video.m3u8
+#EXTINF:-1 , Colors Bangla
 http://yupptvcatchupire.yuppcdn.net/preview/colorsbanglahd/800.m3u8
-#EXTINF:-1 , Colors Bangla HD Panda
+#EXTINF:-1 , Colors Bangla Panda
 https://padmaonline.duckdns.org:8088/ColorsBanglaHD/index.m3u8
 #EXTINF:-1 , Sananda TV
 http://115.187.41.216:8080/hls/sanandatv/index.m3u8
@@ -107,19 +109,15 @@ https://box.bbaria.net:8083/Jalsha_Movie/tracks-v1a1/mono.m3u8
 https://dish.porosh.com.bd/hls/jalshabangla.m3u8
 #EXTINF:-1 , Sonar Bangla Movie
 https://samitaorigin.tangotv.in/SONARBANGLA/SAMITAORIGIN/index.m3u8
-#EXTINF:-1 , Colors Bangla Cinema
-http://198.195.239.50:8095/ColorsBanglaChinema/tracks-v1a1/mono.m3u8
-#EXTINF:-1 , Zee Bangla Chinema
-http://198.195.239.50:8095/ZeeBanglaCinema/tracks-v1a1/mono.m3u8
-#EXTINF:-1 , Movie Bangla BDIX
+#EXTINF:-1 , Movie Bangla
 http://alvetv.com/moviebanglatv/8080/index.m3u8
-#EXTINF:-1 , Movie Bangla HD BDIX
+#EXTINF:-1 , Movie Bangla
 http://alvetv.com/mbtv/8080/index.m3u8
 #EXTINF:-1 , Enter10 Bangla
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 #EXTINF:-1 , Akash Aath
 http://103.175.73.12:8080/live/660/660_0.m3u8
-#EXTINF:-1 , Sony Aath Summit
+#EXTINF:-1 , Sony Aath SCL
 http://20.20.20.20:8088/306/video.m3u8
 #EXTINF:-1 , Sony Aath
 http://jiugvcta.icysmart.com/live/KS3PZD49/XQT4RR4X/33609.ts
@@ -145,8 +143,6 @@ http://103.175.73.12:8080/live/378/378_0.m3u8
 https://mumt05.tangotv.in/87NeALx2SANGEETBANGLA/index.m3u8
 #EXTINF:-1 ", ZB Music
 https://server.zillarbarta.com/zbmusic/index.m3u8
-#EXTINF:-1 ", Bengali Beat
-https://live20.bozztv.com/giatvplayout7/giatv-209587/index.m3u8
 #EXTINF:-1 ", Sangeet Bhojpuri
 http://cdn-4.pishow.tv/live/1293/master.m3u8
 #EXTINF:-1 , 9xm
