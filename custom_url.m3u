@@ -17,6 +17,8 @@ http://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 https://tvsen6.aynaott.com/N8Xbo5vdwVU6sF43RsW0/index.m3u8
 #EXTINF:-1 , News24 Ayna
 https://tvsen6.aynaott.com/cdgr3tw6WoG7JyRnLbi0/index.m3u8
+#EXTINF:-1 , DBC News SCL
+http://20.20.20.20:8088/204/video.m3u8
 #EXTINF:-1 , ATN News SCL
 http://20.20.20.20:8088/203/video.m3u8
 #EXTINF:-1 , ATN Bangla SCL
