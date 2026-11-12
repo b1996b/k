@@ -171,6 +171,8 @@ http://146.59.253.52:8080/hindihitshd/index.m3u8
 https://cdn-2.pishow.tv/live/226/master.m3u8
 #EXTINF:-1 , Music India 2
 http://103.175.73.12:8080/live/158/158_0.m3u8
+#EXTINF:-1 , Music India 3
+http://streams.tangotv.in/MUSICINDIA/ORIGIN/index.m3u8
 #EXTINF:-1 , ZOOM
 http://dai.google.com/linear/hls/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
 #EXTINF:-1 , ZOOM2
