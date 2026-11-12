@@ -131,8 +131,10 @@ http://103.175.73.12:8080/live/660/660_0.m3u8
 http://20.20.20.20:8088/306/video.m3u8
 #EXTINF:-1 , Sony Aath
 http://jiugvcta.icysmart.com/live/KS3PZD49/XQT4RR4X/33609.ts
+#EXTINF:-1 , Khushboo Bangla EKTV
+http://103.175.73.12:8080/live/375/375_0.m3u8
 #EXTINF:-1 , Khushboo Bangla
-http://cdn-4.pishow.tv/live/1473/master.m3u8
+http://mumt01.tangotv.in/O5aw8Zn3KHUSHBOOTVBANGLA/index.m3u8
 #EXTINF:-1 , Travelxp
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 , Animal Planet
