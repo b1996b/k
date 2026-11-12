@@ -155,10 +155,12 @@ http://103.175.73.12:8080/live/378/378_0.m3u8
 https://mumt05.tangotv.in/87NeALx2SANGEETBANGLA/index.m3u8
 #EXTINF:-1 ", ZB Music
 https://server.zillarbarta.com/zbmusic/index.m3u8
-#EXTINF:-1 ", Sangeet Bhojpuri
-http://cdn-4.pishow.tv/live/1293/master.m3u8
+#EXTINF:-1 ", Sangeet Bhojpuri Ektv
+http://103.175.73.12:8080/live/349/349_0.m3u8
+#EXTINF:-1 , 9xm Ektv
+http://103.175.73.12:8080/live/155/155_0.m3u8
 #EXTINF:-1 , 9xm
-http://9xjio.wiseplayout.com/9XM/master.m3u8
+http://streams.tangotv.in/9XM/ORIGIN/index.m3u8
 #EXTINF:-1 , Epic Music
 http://103.175.73.12:8080/live/469/469_0.m3u8
 #EXTINF:-1 , 9x Jalwa
@@ -167,11 +169,9 @@ https://wiselp.wiseplayout.com/9X_Jalwa/HD1080/HD1080.m3u8
 http://cdn-2.pishow.tv/live/415/master.m3u8
 #EXTINF:-1 , Hindi Hits
 http://146.59.253.52:8080/hindihitshd/index.m3u8
-#EXTINF:-1 , Music India
-https://cdn-2.pishow.tv/live/226/master.m3u8
-#EXTINF:-1 , Music India 2
+#EXTINF:-1 , Music India Ektv
 http://103.175.73.12:8080/live/158/158_0.m3u8
-#EXTINF:-1 , Music India 3
+#EXTINF:-1 , Music India
 http://streams.tangotv.in/MUSICINDIA/ORIGIN/index.m3u8
 #EXTINF:-1 , ZOOM
 http://dai.google.com/linear/hls/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
