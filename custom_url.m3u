@@ -165,6 +165,8 @@ http://streams.tangotv.in/9XM/ORIGIN/index.m3u8
 http://103.175.73.12:8080/live/469/469_0.m3u8
 #EXTINF:-1 , Epic Music
 http://streams.tangotv.in/EPICMUSIC/ORIGIN/index.m3u8
+#EXTINF:-1 , 9x Jalwa Ektv
+http://103.175.73.12:8080/live/161/161_0.m3u8
 #EXTINF:-1 , 9x Jalwa
 https://wiselp.wiseplayout.com/9X_Jalwa/HD1080/HD1080.m3u8
 #EXTINF:-1 , B4U Music Ektv
