@@ -179,10 +179,16 @@ http://146.59.253.52:8080/hindihitshd/index.m3u8
 http://103.175.73.12:8080/live/158/158_0.m3u8
 #EXTINF:-1 , Music India
 http://streams.tangotv.in/MUSICINDIA/ORIGIN/index.m3u8
+#EXTINF:-1 , Music India2
+http://mumt05.tangotv.in/87NeALx2MUSICINDIA/index.m3u8
 #EXTINF:-1 , ZOOM
 http://dai.google.com/linear/hls/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
 #EXTINF:-1 , ZOOM2
 http://d2esfk1pb9cdob.cloudfront.net/master.m3u8
+#EXTINF:-1 , ZOOM3
+http://mumbai-edge.smartplaytv.in/Zoom/index.m3u8
+#EXTINF:-1 , ZOOM4
+http://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
 #EXTINF:-1 , YRF Music
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
 #EXTINF:-1 , Sony Max
