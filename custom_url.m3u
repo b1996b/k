@@ -209,6 +209,8 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/pl
 http://20.20.20.20:8088/406/video.m3u8
 #EXTINF:-1 , Star Gold SCL
 http://20.20.20.20:8088/402/video.m3u8
+#EXTINF:-1 , Sony ENT SCL
+http://20.20.20.20:8088/403/video.m3u8
 #EXTINF:-1 , Sony Max
 http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/151.ts
 #EXTINF:-1 , Live Sports SCL
