@@ -155,6 +155,8 @@ http://20.20.20.20:8088/802/video.m3u8
 https://tvsen6.aynaott.com/hT5jHczt/index.m3u8
 #EXTINF:-1 ", Sangeet Bangla Ektv
 http://103.175.73.12:8080/live/379/379_0.m3u8
+#EXTINF:-1 ", Dhoom
+http://mumt06.tangotv.in/qYyB8fXVDHOOMMUSIC/index.m3u8
 #EXTINF:-1 ", Dhoom Ektv
 http://103.175.73.12:8080/live/378/378_0.m3u8
 #EXTINF:-1 ", Sangeet Bangla
@@ -163,6 +165,8 @@ http://mumt05.tangotv.in/87NeALx2SANGEETBANGLA/index.m3u8
 http://cdn.pishow.tv/ott/live/1143/master.m3u8
 #EXTINF:-1 ", ZB Music
 https://server.zillarbarta.com/zbmusic/index.m3u8
+#EXTINF:-1 ", Sangeet Bhojpuri
+https://mumt01.tangotv.in/O5aw8Zn3SANGEETBHOJPURI/index.m3u8
 #EXTINF:-1 ", Sangeet Bhojpuri Ektv
 http://103.175.73.12:8080/live/349/349_0.m3u8
 #EXTINF:-1 , 9xm Ektv
