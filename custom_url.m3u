@@ -166,7 +166,7 @@ http://cdn.pishow.tv/ott/live/1143/master.m3u8
 #EXTINF:-1 ", ZB Music
 https://server.zillarbarta.com/zbmusic/index.m3u8
 #EXTINF:-1 ", Sangeet Bhojpuri
-https://mumt01.tangotv.in/O5aw8Zn3SANGEETBHOJPURI/index.m3u8
+http://mumt01.tangotv.in/O5aw8Zn3SANGEETBHOJPURI/index.m3u8
 #EXTINF:-1 ", Sangeet Bhojpuri Ektv
 http://103.175.73.12:8080/live/349/349_0.m3u8
 #EXTINF:-1 , 9xm Ektv
@@ -205,6 +205,8 @@ http://mumbai-edge.smartplaytv.in/Zoom/index.m3u8
 http://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
 #EXTINF:-1 , YRF Music
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
+#EXTINF:-1 , Zee Cinema SCL
+http://20.20.20.20:8088/406/video.m3u8
 #EXTINF:-1 , Sony Max
 http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/151.ts
 #EXTINF:-1 , Live Sports SCL
