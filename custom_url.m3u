@@ -123,6 +123,10 @@ http://20.20.20.20:8088/303/video.m3u8
 https://box.bbaria.net:8083/Jalsha_Movie/tracks-v1a1/mono.m3u8
 #EXTINF:-1 , Jalsha Bangla Movies
 https://dish.porosh.com.bd/hls/jalshabangla.m3u8
+#EXTINF:-1 , ZEE Bangla Cinema1
+http://jiugvcta.icysmart.com/live/KS3PZD49/XQT4RR4X/171466.ts
+#EXTINF:-1 , ZEE Bangla Cinema2
+http://jiugvcta.icysmart.com/live/KS3PZD49/XQT4RR4X/33655.ts
 #EXTINF:-1 , Sonar Bangla Movie
 https://samitaorigin.tangotv.in/SONARBANGLA/SAMITAORIGIN/index.m3u8
 #EXTINF:-1 , Movie Bangla
