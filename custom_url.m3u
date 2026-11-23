@@ -131,6 +131,8 @@ https://iptvlive-beta.vercel.app/jalsha-movies/index.m3u8
 https://ashtv.com.bd/server/iptv/jmovies.m3u8|Referer=https://ashtv.com.bd
 #EXTINF:-1 , Jalsha Bangla Movies
 https://dish.porosh.com.bd/hls/jalshabangla.m3u8
+#EXTINF:-1 , ZEE Bangla Cinema1
+https://s3.itcnbd.live/server-5/stream/aW1nL3BsYXkucGhwP3N0cmVhbT0zMDU.m3u8
 #EXTINF:-1 , ZEE Bangla Cinema2
 https://s3.itcnbd.live/server-12/stream/NDM.m3u8
 #EXTINF:-1 , ZEE Bangla Cinema3
