@@ -1,14 +1,14 @@
 #EXTM3U
 #EXTINF:-1 , Enter10 Bangla
 https://live-bangla.akamaized.net/liveabr/playlist.m3u8
-#EXTINF:-1 , Enter10 Bangla Ektv
-http://103.175.73.12:8080/live/658/658_0.m3u8
 #EXTINF:-1 , Enter10 Bangla
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 #EXTINF:-1 , Ekattor SCL
 http://20.20.20.20:8088/201/video.m3u8
 #EXTINF:-1 , Ekattor Ayna
 https://tvsen6.aynaott.com/EWDrV5QskgarZEUBb3pU/index.m3u8
+#EXTINF:-1 , Somoy Ayna
+https://tvsen6.aynaott.com/4XcqdovJzbbC9WdJA9gk/index.m3u8
 #EXTINF:-1 , Somoy
 http://116.204.149.16/somoytv/index.m3u8
 #EXTINF:-1 , Ekushey TV
