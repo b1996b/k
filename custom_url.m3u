@@ -131,9 +131,11 @@ https://iptvlive-beta.vercel.app/jalsha-movies/index.m3u8
 https://ashtv.com.bd/server/iptv/jmovies.m3u8|Referer=https://ashtv.com.bd
 #EXTINF:-1 , Jalsha Bangla Movies
 https://dish.porosh.com.bd/hls/jalshabangla.m3u8
-#EXTINF:-1 , ZEE Bangla Cinema1
-http://jiugvcta.icysmart.com/live/KS3PZD49/XQT4RR4X/171466.ts
 #EXTINF:-1 , ZEE Bangla Cinema2
+https://s3.itcnbd.live/server-12/stream/NDM.m3u8
+#EXTINF:-1 , ZEE Bangla Cinema3
+http://jiugvcta.icysmart.com/live/KS3PZD49/XQT4RR4X/171466.ts
+#EXTINF:-1 , ZEE Bangla Cinema4
 http://jiugvcta.icysmart.com/live/KS3PZD49/XQT4RR4X/33655.ts
 #EXTINF:-1 , Sonar Bangla Movie
 https://samitaorigin.tangotv.in/SONARBANGLA/SAMITAORIGIN/index.m3u8
