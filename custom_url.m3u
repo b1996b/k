@@ -137,6 +137,8 @@ https://s3.itcnbd.live/server-12/stream/NDM.m3u8
 http://jiugvcta.icysmart.com/live/KS3PZD49/XQT4RR4X/171466.ts
 #EXTINF:-1 , ZEE Bangla Cinema4
 http://jiugvcta.icysmart.com/live/KS3PZD49/XQT4RR4X/33655.ts
+#EXTINF:-1 , Colors Bangla Cinema
+http://103.114.11.37:8081/Colors-bangla-cinema/index.m3u8?token=scn
 #EXTINF:-1 , Sonar Bangla Movie
 https://samitaorigin.tangotv.in/SONARBANGLA/SAMITAORIGIN/index.m3u8
 #EXTINF:-1 , Movie Bangla
