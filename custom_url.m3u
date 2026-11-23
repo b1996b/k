@@ -167,6 +167,8 @@ https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8
 #EXTINF:-1 , Animal Planet2
 https://cdn4.mjunoon.tv:8087/streamtest/158-3M/chunks.m3u8
+#EXTINF:-1 , Animal Planet3
+https://toffee.sm-monirul-islam-rs.workers.dev/animal_planet_hd/index.m3u8|Referer=https://toffeelive.com/
 #EXTINF:-1 , Discovery Bangla
 https://s3.itcnbd.live/server-12/stream/MjI.m3u8
 #EXTINF:-1 , Discovery Bangla2
